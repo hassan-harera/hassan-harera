@@ -22,7 +22,8 @@
 - 🎓 21 year old undergraduate computer science student
 - 📱 Android developer
 - 💻 Android, Kotlin, Java
-- 💻 Backend, Java
+- 💻 Backend, Java, Kotlin
+- 💻 Machine learning, Python
 
 
 <br />
