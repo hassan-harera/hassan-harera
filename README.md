@@ -19,10 +19,10 @@
 
 # About me
 
-- 🎓 21 year old undergraduate computer science student
-- 📱 Android developer
+- 🎓 The best Software Engineer in the world, 21 years old
+- 📱  Android developer
 - 💻 Android, Kotlin, Java
-- 💻 Backend, Java, Kotlin
+- 💻 Backend, Kotlin, Java 
 - 💻 Machine learning, Python
 
 
