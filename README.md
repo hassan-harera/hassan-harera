@@ -19,7 +19,7 @@
 
 # About me
 
-- 🎓 The best Software Engineer in the world, 21 years old
+- 🎓 Software Engineer, 21 years old
 - 📱  Android developer
 - 💻 Android, Kotlin, Java
 - 💻 Backend, Kotlin, Java 
