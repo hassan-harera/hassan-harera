@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassan Harera</h1>
+<h1 align="center">Hi, I'm Hassan Harera 👋</h1>
 <h3 align="center">Octopus Software Engineer🌟</h3>
 
 <br>
@@ -9,14 +9,18 @@
  -->
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" height="400"/></p>
 
 
-- 🌱 I’m an Android Developer, Backend Developer and Machine learning engineer
+- 🌱 I’m Software Engineer works on differenct technologies such as Android development, Backend development and Machine Learning Engineering
 
-- 📫 How to reach me **Hassan.Shaban.Harera@gmail.com**
+- 📚 I’m Open to learn and work on new things
+
+- 🎓 Computer Science Graduate
 
 - ⚡ Learn,Build and Grow.
+
+- 📫 How to reach me **Hassan.Shaban.Harera@gmail.com**
 
 <br>
 
