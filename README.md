@@ -12,13 +12,13 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" height="400"/></p>
 
 
-- 🌱 I’m Software Engineer works on differenct technologies such as Android development, Backend development and Machine Learning Engineering
+- 🌱 I’m Software Engineer works on differenct technologies such as Backend, Mobile and AI
 
 - 📚 I’m Open to learn and work on new things
 
 - 🎓 Computer Science Graduate
 
-- ⚡ Learn,Build and Grow.
+- ⚡ Learn, Build and Grow.
 
 - 📫 How to reach me **Hassan.Shaban.Harera@gmail.com**
 
