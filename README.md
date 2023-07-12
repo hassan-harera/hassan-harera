@@ -11,10 +11,10 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" height="400"/></p>
 
-- 💻 Software engineer with experience in backend, mobile, and AI.
+- 💻 Software engineer with experience in Backend and Mobile development and interested in AI.
 - 📚 Always learning and open to new challenges.
 - 🎓 Computer Science graduate with strong programming skills.
-- ⚡ Passionate about learning, building, and growing as a developer.
+- ⚡  Passionate about learning, building, and growing as a developer.
 - 🧩 Skilled in problem solving and competitive programming.
 - 📫 Contact me at Hassan.Shaban.Harera@gmail.com
 - 🚀 Experienced in Agile and cross-functional team collaboration.
