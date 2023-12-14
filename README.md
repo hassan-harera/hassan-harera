@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hassan Harera 👋</h1>
-<h3 align="center">Octopus Software Engineer🌟</h3>
+<h3 align="center">Enthusiastic Software Engineer🌟</h3>
 
 <br>
 
